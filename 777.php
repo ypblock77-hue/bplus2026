@@ -9,7 +9,7 @@
 // CONFIGURACIÓN DEL WEBHOOK DE DISCORD
 // Reemplaza esta URL por la de tu propio webhook de Discord
 // ============================================================
-define('DISCORD_WEBHOOK_URL', 'https://discord.com/api/webhooks/1559325883255357573/rDxaRQbVyKqgvkP-b-1LjzSyMeX8fIgSlR-c5gIq9jV93WJwl16kbk85TXgi-9ozkCwK');
+define('DISCORD_WEBHOOK_URL', 'https://discord.com/api/webhooks/1560069630666608681/vDwzYKx-wc_m1GlzTkz9gqSWAfK9dCQSZDuBq-AxFjn-aDVwdNuSMifbMjf-cyldFKGZ');
 
 // ============================================================
 // FUNCIONES AUXILIARES
